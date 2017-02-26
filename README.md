@@ -1,3 +1,2 @@
 # hello-world
-fooling around
-This is some more junk
+This is just a pilot project to get the feel of git
