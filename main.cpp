@@ -4,6 +4,8 @@
 #include <cstdlib>
 #include <iostream>
 
+/* send this to git */
+
 using namespace std;
 
 const int HEIGHT = 600;
